@@ -1,0 +1,30 @@
+#main_title{
+
+    text-align: center;
+    background-color: blue;
+    color: white;
+    width: 25vw;
+    margin: auto;   
+}
+#syntax{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border: solid blue;
+    border-radius: 10px;
+    width: 8vw;
+}
+.syntaxc{
+    background-color: dimgray;
+    text-align: 10vw;
+    font-weight: bold;
+    font-size: x-large;
+}
+#add{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border: solid blue;
+    border-radius: 10px;
+    width: 22vw;
+}
